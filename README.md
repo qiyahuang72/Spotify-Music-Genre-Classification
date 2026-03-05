@@ -1,4 +1,4 @@
-# 🎵 Music Genre Classification
+# Music Genre Classification
 
 > Predicting Spotify song genres from audio features using dimensionality reduction and machine learning — **best model achieved 88.3% weighted AUC**.
 
@@ -108,7 +108,7 @@ python classification.py
 jupyter notebook classification.ipynb
 ```
 
-> ⚠️ **Note:** The original code uses a student N-number as the random seed. Replace `random.seed(YOUR_N_NUMBER)` with any integer seed of your choice to reproduce results.
+> **Note:** The original code uses a student N-number as the random seed. Replace `random.seed(YOUR_N_NUMBER)` with any integer seed of your choice to reproduce results.
 
 ---
 
